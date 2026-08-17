@@ -8,16 +8,16 @@ A scheduled agent scans a set of remote job boards every day, keeps only posting
 
 | Metric | Count |
 |---|---|
-| Total listings tracked | 33 |
+| Total listings tracked | 35 |
 | 🟢 High priority | 3 |
-| 🟡 Medium priority | 21 |
+| 🟡 Medium priority | 23 |
 | ⚪ Low priority | 9 |
 | ✅ Applied | 9 |
 | 🎤 Interviews | 0 |
 | 💼 Offers | 0 |
-| 📋 Still to review | 24 |
+| 📋 Still to review | 26 |
 
-**By role bucket:** TAM (6) · Customer Success (7) · Solution Consultant (11) · Application Support (9)
+**By role bucket:** TAM (6) · Customer Success (9) · Solution Consultant (11) · Application Support (9)
 
 *(Snapshot as of 2026-08-17 — the live numbers are always in [`Remote_Job_Search_Tracker.xlsx`](./Remote_Job_Search_Tracker.xlsx) → `Dashboard` tab.)*
 
